@@ -1,3 +1,3 @@
 $(document).ready(function(){
-  $('p').text('jquery working');
+  //$('p').text('jquery working');
 });
